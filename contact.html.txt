@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>联系我 - 樱语日记</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">桜日記</div>
+            <div class="nav-links">
+                <a href="index.html">首页</a>
+                <a href="about.html">关于我</a>
+                <a href="contact.html">联系</a>
+            </div>
+        </nav>
+    </header>
+
+    <div class="main">
+        <h1 style="text-align:center; margin-bottom:2rem;">联系我</h1>
+        <div style="max-width:600px; margin:0 auto; background:white; padding:3rem; border-radius:20px;">
+            <p style="text-align:center; font-size:1.1rem;">很高兴认识你！</p>
+            <p style="text-align:center; margin:2rem 0;">
+                📧 Email: <a href="mailto:your@email.com" style="color:var(--sakura);">your@email.com</a><br><br>
+                🐦 X (Twitter): @你的用户名<br><br>
+                📷 Instagram: @你的ID
+            </p>
+            <p style="text-align:center; color:#888;">或者直接在这里留言，我会尽快回复哦~</p>
+        </div>
+    </div>
+
+    <footer>
+        © 2026 樱语日记
+    </footer>
+</body>
+</html>
